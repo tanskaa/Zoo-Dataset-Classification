@@ -1,7 +1,10 @@
 # Zoo-Dataset-Classification [PL]
 
 //original version of these project is in polish
+
+
 //translation in english is in progress
+
 Goal 
 This project is an example of how can we work on a small datasets and make suprisingly great classification models on non-big data.
 
