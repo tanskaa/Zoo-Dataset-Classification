@@ -1,6 +1,6 @@
 # Zoo-Dataset-Classification [PL]
 
-//original version of these project is in polish
+//original version of this project is in polish
 
 
 //translation in english is in progress
